@@ -33,6 +33,9 @@ This was a team machine learning project. My contribution focused on implementin
 - `net.py`: neural network definition and training logic
 - `TCM_Herb_Property_Prediction_Report.pdf`: project report
 
+## Dataset
+The dataset was derived from ETCM and processed for this project. Due to data preparation and repository size considerations, the dataset is not included in this repository.
+
 ## Run
 1. Install required dependencies
 2. Prepare the dataset in the expected format
